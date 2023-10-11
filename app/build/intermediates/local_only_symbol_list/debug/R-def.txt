@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color primarycolor
+color secondarycolor
+color white
+drawable android_black
+drawable baseline_monetization_on_24
+drawable button_shape
+drawable gambar1
+drawable gambar2
+drawable gambar3
+drawable gambarlogin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id L_img_1
+id btn_login
+id button1
+id emailuser
+id imageView
+id imagelogin
+id passworduser
+id selamatdtng
+id textView
+id textView2
+id textView3
+layout activity_login
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ITPERBANKAN
+xml backup_rules
+xml data_extraction_rules
