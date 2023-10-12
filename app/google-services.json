@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861535476696",
+    "project_id": "itperbankan-cb666",
+    "storage_bucket": "itperbankan-cb666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861535476696:android:c2c269f8bc5d80f2dc30ad",
+        "android_client_info": {
+          "package_name": "com.example.itperbankan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZbuaEd05jMeJVSPVxKqJYF8JeNvnTlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

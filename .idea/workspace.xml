@@ -9,13 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9bb5d53-0f7b-45ef-92d4-088969edbb83" name="Changes" comment="" />
+    <list default="true" id="fa95404c-b65f-4d80-9c86-64ceacd56248" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RR8R30E1CCN]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\User\.android\avd\24.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -24,15 +24,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="valueResourceFile" />
-        <option value="resourceFile" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2WKRJc8nf6QIVZukulpyDbtvkf6" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2WcaxE6DhuookJh12Sfc53wHTjU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,14 +48,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "settings.editor.selected.configurable": "reference.idesettings.quicklists"
+    "com.android.tools.idea.devicemanager.tab": "Physical",
+    "last_opened_file_path": "C:/Users/User/AndroidStudioProjects/SimpleApps-main"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\AndroidStudioProjects\ITPERBANKAN2\app\src\main\res\drawable" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.itperbankan" />
     </key>
     <key name="android.template.-2106090830">
+      <recent name="com.example.itperbankan" />
+    </key>
+    <key name="android.template.1843660209">
       <recent name="com.example.itperbankan" />
     </key>
   </component>
@@ -125,11 +134,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9bb5d53-0f7b-45ef-92d4-088969edbb83" name="Changes" comment="" />
-      <created>1696479214056</created>
+      <changelist id="fa95404c-b65f-4d80-9c86-64ceacd56248" name="Changes" comment="" />
+      <created>1697034567622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696479214056</updated>
+      <updated>1697034567622</updated>
     </task>
     <servers />
   </component>
