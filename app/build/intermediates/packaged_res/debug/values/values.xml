@@ -5,7 +5,24 @@
     <color name="primarycolor">#50C2C9</color>
     <color name="secondarycolor">#55BBAF</color>
     <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
     <string name="app_name">ITPERBANKAN</string>
+    <string name="gcm_defaultSenderId" translatable="false">861535476696</string>
+    <string name="google_api_key" translatable="false">AIzaSyBXZbuaEd05jMeJVSPVxKqJYF8JeNvnTlU</string>
+    <string name="google_app_id" translatable="false">1:861535476696:android:c2c269f8bc5d80f2dc30ad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXZbuaEd05jMeJVSPVxKqJYF8JeNvnTlU</string>
+    <string name="google_storage_bucket" translatable="false">itperbankan-cb666.appspot.com</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="project_id" translatable="false">itperbankan-cb666</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="welcome">"Welcome !"</string>
     <style name="Theme.ITPERBANKAN" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="colorPrimary">@color/primarycolor</item>
         <item name="colorSecondary">@color/secondarycolor</item>
